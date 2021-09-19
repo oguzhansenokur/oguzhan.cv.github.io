@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bizimkod/static/css/main.a617e044.chunk.css",
+    "main.js": "/bizimkod/static/js/main.af56cdff.chunk.js",
+    "main.js.map": "/bizimkod/static/js/main.af56cdff.chunk.js.map",
+    "runtime-main.js": "/bizimkod/static/js/runtime-main.792d1b89.js",
+    "runtime-main.js.map": "/bizimkod/static/js/runtime-main.792d1b89.js.map",
+    "static/js/2.94c6900b.chunk.js": "/bizimkod/static/js/2.94c6900b.chunk.js",
+    "static/js/2.94c6900b.chunk.js.map": "/bizimkod/static/js/2.94c6900b.chunk.js.map",
+    "static/js/3.2b24f658.chunk.js": "/bizimkod/static/js/3.2b24f658.chunk.js",
+    "static/js/3.2b24f658.chunk.js.map": "/bizimkod/static/js/3.2b24f658.chunk.js.map",
+    "index.html": "/bizimkod/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/bizimkod/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.94c6900b.chunk.js.LICENSE.txt": "/bizimkod/static/js/2.94c6900b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bizimkod/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.792d1b89.js",
+    "static/js/2.94c6900b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.af56cdff.chunk.js"
+  ]
+}
